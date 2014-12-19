@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<nodes>
+		<node id="0"x="1" y="5">
+			<con type="1">40</con>
+			<con type="0">12</con>
+			<con type="0">25</con>
+		</node>
+		<node id="1"x="5" y="3">
+			<con type="0">40</con>
+			<con type="0">2</con>
+		</node>
+		<node id="2"x="6" y="3">
+			<con type="0">1</con>
+			<con type="0">3</con>
+		</node>
+		<node id="3"x="7" y="3">
+			<con type="0">2</con>
+			<con type="0">4</con>
+		</node>
+		<node id="4"x="8" y="2">
+			<con type="0">3</con>
+			<con type="0">5</con>
+		</node>
+		<node id="5"x="9" y="2">
+			<con type="0">4</con>
+			<con type="0">6</con>
+		</node>
+		<node id="6"x="10" y="2">
+			<con type="0">5</con>
+			<con type="0">7</con>
+		</node>
+		<node id="7"x="11" y="2">
+			<con type="0">6</con>
+			<con type="0">8</con>
+		</node>
+		<node id="8"x="12" y="3">
+			<con type="0">7</con>
+			<con type="0">9</con>
+		</node>
+		<node id="9"x="13" y="3">
+			<con type="0">8</con>
+			<con type="0">10</con>
+		</node>
+		<node id="10"x="14" y="3">
+			<con type="0">9</con>
+			<con type="0">41</con>
+		</node>
+		<node id="11"x="18" y="5">
+			<con type="1">41</con>
+			<con type="0">23</con>
+			<con type="0">24</con>
+		</node>
+		<node id="12"x="4" y="7">
+			<con type="1">0</con>
+			<con type="0">13</con>
+			<con type="0">26</con>
+		</node>
+		<node id="13"x="5" y="7">
+			<con type="0">12</con>
+			<con type="0">14</con>
+		</node>
+		<node id="14"x="6" y="7">
+			<con type="0">13</con>
+			<con type="0">15</con>
+		</node>
+		<node id="15"x="7" y="7">
+			<con type="0">14</con>
+			<con type="0">16</con>
+		</node>
+		<node id="16"x="8" y="7">
+			<con type="0">15</con>
+			<con type="0">17</con>
+		</node>
+		<node id="17"x="9" y="7">
+			<con type="0">16</con>
+			<con type="0">18</con>
+		</node>
+		<node id="18"x="10" y="7">
+			<con type="0">17</con>
+			<con type="0">19</con>
+		</node>
+		<node id="19"x="11" y="7">
+			<con type="0">18</con>
+			<con type="0">20</con>
+		</node>
+		<node id="20"x="12" y="7">
+			<con type="0">19</con>
+			<con type="0">21</con>
+		</node>
+		<node id="21"x="13" y="7">
+			<con type="0">20</con>
+			<con type="0">22</con>
+		</node>
+		<node id="22"x="14" y="7">
+			<con type="0">21</con>
+			<con type="0">23</con>
+		</node>
+		<node id="23"x="15" y="7">
+			<con type="0">22</con>
+			<con type="1">11</con>
+			<con type="0">39</con>
+		</node>
+		<node id="24"x="19" y="4">
+			<con type="0">11</con>
+			<con type="2">25</con>
+		</node>
+		<node id="25"x="0" y="4">
+			<con type="0">0</con>
+			<con type="2">24</con>
+		</node>
+		
+		
+		<node id="26"x="1" y="9">
+			<con type="1">12</con>
+			<con type="0">27</con>
+		</node>
+		<node id="27"x="2" y="10">
+			<con type="0">26</con>
+			<con type="0">28</con>
+		</node>
+		<node id="28"x="3" y="10">
+			<con type="0">27</con>
+			<con type="0">29</con>
+		</node>
+		<node id="29"x="4" y="10">
+			<con type="0">28</con>
+			<con type="1">1</con>
+		</node>
+
+		<node id="30"x="7" y="10">
+			<con type="1">29</con>
+			<con type="0">31</con>
+		</node>
+		<node id="31"x="8" y="10">
+			<con type="0">30</con>
+			<con type="0">32</con>
+		</node>
+		<node id="32"x="9" y="10">
+			<con type="0">31</con>
+			<con type="0">33</con>
+		</node>
+		<node id="33"x="10" y="10">
+			<con type="0">32</con>
+			<con type="0">34</con>
+		</node>
+		<node id="34"x="11" y="10">
+			<con type="0">33</con>
+			<con type="0">35</con>
+		</node>
+		<node id="35"x="12" y="10">
+			<con type="0">34</con>
+			<con type="1">36</con>
+		</node>
+
+		<node id="36"x="15" y="10">
+			<con type="1">10</con>
+			<con type="0">37</con>
+		</node>
+		<node id="37"x="16" y="10">
+			<con type="0">36</con>
+			<con type="0">38</con>
+		</node>
+		<node id="38"x="17" y="10">
+			<con type="0">37</con>
+			<con type="0">39</con>
+		</node>
+		<node id="39"x="18" y="9">
+			<con type="0">38</con>
+			<con type="1">23</con>
+		</node>
+		
+		<node id="40"x="4" y="3">
+			<con type="1">0</con>
+			<con type="0">1</con>
+		</node>
+		<node id="41"x="15" y="3">
+			<con type="1">11</con>
+			<con type="0">10</con>
+		</node>
+	</nodes>
+</data>

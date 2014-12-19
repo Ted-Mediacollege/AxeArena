@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="gui.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="box.png"	x="0"	y="0"	width="1000"	height="650" frameX="-0" frameY="-0" frameWidth="1000" frameHeight="650"/>
+	<SubTexture name="button_default.png"	x="0"	y="702"	width="500"	height="75" frameX="-0" frameY="-0" frameWidth="500" frameHeight="75"/>
+	<SubTexture name="button_low.png"	x="0"	y="651"	width="500"	height="50" frameX="-0" frameY="-0" frameWidth="500" frameHeight="50"/>
+	<SubTexture name="button_small.png"	x="0"	y="778"	width="300"	height="50" frameX="-0" frameY="-0" frameWidth="300" frameHeight="50"/>
+</TextureAtlas>
